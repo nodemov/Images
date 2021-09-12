@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="16.875" viewBox="0 0 18 16.875">
+  <g id="Group_4100" data-name="Group 4100" transform="translate(0.429)">
+    <g id="Rectangle_2446" data-name="Rectangle 2446" transform="translate(-0.429 0.875)" fill="none" stroke="#fff" stroke-width="1.4">
+      <rect width="18" height="16" stroke="none"/>
+      <rect x="0.7" y="0.7" width="16.6" height="14.6" fill="none"/>
+    </g>
+    <line id="Line_2850" data-name="Line 2850" y2="3" transform="translate(4.821)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2851" data-name="Line 2851" y2="3" transform="translate(13.071)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2852" data-name="Line 2852" x2="18" transform="translate(-0.429 4.875)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2853" data-name="Line 2853" x2="1.417" transform="translate(3.306 7.518)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2860" data-name="Line 2860" x2="1.417" transform="translate(3.306 10.049)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2864" data-name="Line 2864" x2="1.417" transform="translate(3.306 12.58)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2854" data-name="Line 2854" x2="1.417" transform="translate(6.344 7.518)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2859" data-name="Line 2859" x2="1.417" transform="translate(6.344 10.049)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2863" data-name="Line 2863" x2="1.417" transform="translate(6.344 12.58)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2855" data-name="Line 2855" x2="1.417" transform="translate(9.381 7.518)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2858" data-name="Line 2858" x2="1.417" transform="translate(9.381 10.049)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2862" data-name="Line 2862" x2="1.417" transform="translate(9.381 12.58)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2856" data-name="Line 2856" x2="1.417" transform="translate(12.418 7.518)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2857" data-name="Line 2857" x2="1.417" transform="translate(12.418 10.049)" fill="none" stroke="#fff" stroke-width="1.4"/>
+    <line id="Line_2861" data-name="Line 2861" x2="1.417" transform="translate(12.418 12.58)" fill="none" stroke="#fff" stroke-width="1.4"/>
+  </g>
+</svg>
